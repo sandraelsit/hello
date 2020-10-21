@@ -8254,23 +8254,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ali Taheri\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\157012\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ali Taheri\\Desktop\\DotNetCore3Test\\DotNetCore3Test.csproj",
+      "projectUniqueName": "C:\\Users\\157012\\Source\\Repos\\hello\\DotNetCore3Test.csproj",
       "projectName": "DotNetCore3Test",
-      "projectPath": "C:\\Users\\Ali Taheri\\Desktop\\DotNetCore3Test\\DotNetCore3Test.csproj",
-      "packagesPath": "C:\\Users\\Ali Taheri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ali Taheri\\Desktop\\DotNetCore3Test\\obj\\",
+      "projectPath": "C:\\Users\\157012\\Source\\Repos\\hello\\DotNetCore3Test.csproj",
+      "packagesPath": "C:\\Users\\157012\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\157012\\Source\\Repos\\hello\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Ali Taheri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\157012\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8335,7 +8331,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
